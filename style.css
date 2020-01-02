@@ -25,3 +25,12 @@ width: 450px;
 border-radius: 20px;
 height: 27px;
 }
+
+.searchbutton {
+    display: inline-block;
+    margin: auto;
+}
+
+form {
+    margin: auto;
+}
