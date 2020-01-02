@@ -1,0 +1,14 @@
+html {
+   display: block; 
+}
+
+.logo {
+margin: auto;
+display: block;
+padding-top: 150px
+}
+
+.search {
+margin: auto;
+display: block;
+}
