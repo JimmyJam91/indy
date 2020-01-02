@@ -2,13 +2,26 @@ html {
    display: block; 
 }
 
+body {
+    display: block;
+}
+
 .logo {
 margin: auto;
 display: block;
 padding-top: 150px
 }
 
-.search {
+.searchbar {
+    display: block;
+}
+
+.bar {
 margin: auto;
 display: block;
+border-color: lightgray;
+margin-top: 20px;
+width: 450px;
+border-radius: 20px;
+height: 27px;
 }
